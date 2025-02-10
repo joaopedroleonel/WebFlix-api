@@ -1,0 +1,6 @@
+@WebFlixAPI_HostAddress = http://localhost:5289
+
+GET {{WebFlixAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
